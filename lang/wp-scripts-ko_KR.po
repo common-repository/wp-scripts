@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: s\n"
+"Project-Id-Version: Wp-Scripts 0.6\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2006-10-26 09:57+0900\n"
+"Last-Translator: 082net <082net@gmail.com>\n"
+"Language-Team: 082net <082net@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA, REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+
+# /wp-scripts.php:88
+msgid "Options saved."
+msgstr ""
+
+# /wp-scripts.php:91
+msgid "Updated compressed javascript"
+msgstr "압축 자바스크립트를 새로 만들었습니다."
+
+# /wp-scripts.php:106
+msgid "Base:"
+msgstr "기본:"
+
+# /wp-scripts.php:108
+# /wp-scripts.php:196
+msgid "None"
+msgstr "없슴"
+
+# /wp-scripts.php:115
+msgid "Select javascript library you want to use."
+msgstr "기본으로 사용할 자바스크립트 라이브러리를 선택하세요."
+
+# /wp-scripts.php:168
+msgid "You can use these scripts with mootools as plugin"
+msgstr "위 스크립트들을 mootools와 함께 사용할 수 있습니다."
+
+# /wp-scripts.php:173
+msgid "Others:"
+msgstr "일반:"
+
+# /wp-scripts.php:189
+msgid "Edit site.custom.js file"
+msgstr "site.custom.js 파일을 수정하세요."
+
+# /wp-scripts.php:193
+msgid "Compress:"
+msgstr "압축:"
+
+# /wp-scripts.php:198
+msgid "Standard"
+msgstr "기본압축"
+
+# /wp-scripts.php:200
+msgid "High"
+msgstr "고압축"
+
+# /wp-scripts.php:201
+msgid "Select javascript compress method"
+msgstr "자바스크립트 압축방법을 선택하세요."
+
+# /wp-scripts.php:206
+msgid "Update Options"
+msgstr ""
+
